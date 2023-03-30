@@ -1,0 +1,6 @@
+# VSCode #
+.vscode/*
+!.vscode/settings.json
+
+# Java #
+*.class
